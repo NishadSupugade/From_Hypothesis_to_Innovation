@@ -354,8 +354,10 @@ The **discussion** section interprets the findings to explain the scientific mea
 **Results Example**:
 A line graph displays a 95% reduction in *Escherichia coli* colony-forming units after exposure to a novel silver nanoparticle concentration of 10 micrograms per milliliter for four hours. The statistical analysis reveals a significant p-value of less than 0.05.
 
-**Discussion Example**:
+**Discussion Example:**
+
 The 95% reduction is interpreted as physical damage to the bacterial outer membrane, allowing intracellular leakage. The outcome is compared with a study by Smith (2021) which reported only an 80% reduction using standard silver formulations. The discussion explains that the higher efficacy of the novel nanoparticles may offer a practical solution for sterilizing hospital surfaces, while acknowledging that the laboratory test was limited to in vitro conditions.
+
 ---
 ### Conclusion
 
